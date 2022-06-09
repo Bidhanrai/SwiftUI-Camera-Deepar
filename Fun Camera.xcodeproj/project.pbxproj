@@ -14,6 +14,22 @@
 		D91C413B2850AD660049C826 /* Fun_CameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91C413A2850AD660049C826 /* Fun_CameraTests.swift */; };
 		D91C41452850AD660049C826 /* Fun_CameraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91C41442850AD660049C826 /* Fun_CameraUITests.swift */; };
 		D91C41472850AD660049C826 /* Fun_CameraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91C41462850AD660049C826 /* Fun_CameraUITestsLaunchTests.swift */; };
+		D9B9FD5D2852108A0008BE40 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B9FD5C2852108A0008BE40 /* WebView.swift */; };
+		D9D2DBFB2851C51D00AD60A1 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9D2DBFA2851C51D00AD60A1 /* Pacifico-Regular.ttf */; };
+		D9D2DBFC2851C51D00AD60A1 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9D2DBFA2851C51D00AD60A1 /* Pacifico-Regular.ttf */; };
+		D9D2DBFD2851C51D00AD60A1 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9D2DBFA2851C51D00AD60A1 /* Pacifico-Regular.ttf */; };
+		D9D2DC042851D74400AD60A1 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC032851D74400AD60A1 /* InfoView.swift */; };
+		D9D2DC052851D74400AD60A1 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC032851D74400AD60A1 /* InfoView.swift */; };
+		D9D2DC062851D74400AD60A1 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC032851D74400AD60A1 /* InfoView.swift */; };
+		D9D2DC082851FE6A00AD60A1 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC072851FE6A00AD60A1 /* NetworkManager.swift */; };
+		D9D2DC092851FE6A00AD60A1 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC072851FE6A00AD60A1 /* NetworkManager.swift */; };
+		D9D2DC0A2851FE6A00AD60A1 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC072851FE6A00AD60A1 /* NetworkManager.swift */; };
+		D9D2DC0D285200AB00AD60A1 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC0C285200AB00AD60A1 /* PostData.swift */; };
+		D9D2DC0E285200AB00AD60A1 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC0C285200AB00AD60A1 /* PostData.swift */; };
+		D9D2DC0F285200AB00AD60A1 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC0C285200AB00AD60A1 /* PostData.swift */; };
+		D9D2DC122852066E00AD60A1 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC112852066E00AD60A1 /* DetailView.swift */; };
+		D9D2DC132852066E00AD60A1 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC112852066E00AD60A1 /* DetailView.swift */; };
+		D9D2DC142852066E00AD60A1 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D2DC112852066E00AD60A1 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +60,14 @@
 		D91C41402850AD660049C826 /* Fun CameraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fun CameraUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D91C41442850AD660049C826 /* Fun_CameraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fun_CameraUITests.swift; sourceTree = "<group>"; };
 		D91C41462850AD660049C826 /* Fun_CameraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fun_CameraUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D9B9FD5C2852108A0008BE40 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		D9B9FD5E285211A60008BE40 /* Fun Camera.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Fun Camera.entitlements"; sourceTree = "<group>"; };
+		D9D2DBFA2851C51D00AD60A1 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		D9D2DBFE2851C6A000AD60A1 /* Fun-Camera-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Fun-Camera-Info.plist"; sourceTree = SOURCE_ROOT; };
+		D9D2DC032851D74400AD60A1 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		D9D2DC072851FE6A00AD60A1 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		D9D2DC0C285200AB00AD60A1 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
+		D9D2DC112852066E00AD60A1 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +118,12 @@
 		D91C41282850AD640049C826 /* Fun Camera */ = {
 			isa = PBXGroup;
 			children = (
+				D9B9FD5E285211A60008BE40 /* Fun Camera.entitlements */,
+				D9D2DBFE2851C6A000AD60A1 /* Fun-Camera-Info.plist */,
+				D9D2DBF92851C4DC00AD60A1 /* fonts */,
 				D91C41292850AD640049C826 /* Fun_CameraApp.swift */,
-				D91C412B2850AD640049C826 /* ContentView.swift */,
+				D9D2DC0B2851FE7200AD60A1 /* Models */,
+				D9D2DC102852063500AD60A1 /* Views */,
 				D91C412D2850AD660049C826 /* Assets.xcassets */,
 				D91C412F2850AD660049C826 /* Preview Content */,
 			);
@@ -125,6 +153,34 @@
 				D91C41462850AD660049C826 /* Fun_CameraUITestsLaunchTests.swift */,
 			);
 			path = "Fun CameraUITests";
+			sourceTree = "<group>";
+		};
+		D9D2DBF92851C4DC00AD60A1 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D9D2DBFA2851C51D00AD60A1 /* Pacifico-Regular.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		D9D2DC0B2851FE7200AD60A1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D9D2DC072851FE6A00AD60A1 /* NetworkManager.swift */,
+				D9D2DC0C285200AB00AD60A1 /* PostData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D9D2DC102852063500AD60A1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D91C412B2850AD640049C826 /* ContentView.swift */,
+				D9D2DC112852066E00AD60A1 /* DetailView.swift */,
+				D9D2DC032851D74400AD60A1 /* InfoView.swift */,
+				D9B9FD5C2852108A0008BE40 /* WebView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,6 +287,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D2DBFB2851C51D00AD60A1 /* Pacifico-Regular.ttf in Resources */,
 				D91C41312850AD660049C826 /* Preview Assets.xcassets in Resources */,
 				D91C412E2850AD660049C826 /* Assets.xcassets in Resources */,
 			);
@@ -240,6 +297,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D2DBFC2851C51D00AD60A1 /* Pacifico-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +305,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D2DBFD2851C51D00AD60A1 /* Pacifico-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +316,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D2DC0D285200AB00AD60A1 /* PostData.swift in Sources */,
+				D9D2DC122852066E00AD60A1 /* DetailView.swift in Sources */,
+				D9D2DC082851FE6A00AD60A1 /* NetworkManager.swift in Sources */,
 				D91C412C2850AD640049C826 /* ContentView.swift in Sources */,
+				D9D2DC042851D74400AD60A1 /* InfoView.swift in Sources */,
 				D91C412A2850AD640049C826 /* Fun_CameraApp.swift in Sources */,
+				D9B9FD5D2852108A0008BE40 /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +330,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D2DC092851FE6A00AD60A1 /* NetworkManager.swift in Sources */,
+				D9D2DC0E285200AB00AD60A1 /* PostData.swift in Sources */,
+				D9D2DC052851D74400AD60A1 /* InfoView.swift in Sources */,
+				D9D2DC132852066E00AD60A1 /* DetailView.swift in Sources */,
 				D91C413B2850AD660049C826 /* Fun_CameraTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,7 +342,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D2DC0F285200AB00AD60A1 /* PostData.swift in Sources */,
+				D9D2DC142852066E00AD60A1 /* DetailView.swift in Sources */,
+				D9D2DC0A2851FE6A00AD60A1 /* NetworkManager.swift in Sources */,
 				D91C41452850AD660049C826 /* Fun_CameraUITests.swift in Sources */,
+				D9D2DC062851D74400AD60A1 /* InfoView.swift in Sources */,
 				D91C41472850AD660049C826 /* Fun_CameraUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,12 +486,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Fun Camera/Fun Camera.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Fun Camera/Preview Content\"";
 				DEVELOPMENT_TEAM = WJUL2YM2QG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Fun-Camera-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -432,6 +506,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sampang.Fun-Camera";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -443,12 +518,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Fun Camera/Fun Camera.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Fun Camera/Preview Content\"";
 				DEVELOPMENT_TEAM = WJUL2YM2QG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Fun-Camera-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -461,6 +538,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sampang.Fun-Camera";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
